@@ -1,9 +1,6 @@
 #include<stdio.h>
 #include "myMath.h"
 
-int main(){
-#include <stdio.h>
-#include "myMath.h"
 
  int main() {
 	
